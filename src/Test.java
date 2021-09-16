@@ -14,5 +14,9 @@ public class Test {
 	
 	public void remoteMethod1(){
 	String remotevar1="Hello Rahul";
+}
+	public void localMethod1() {
+		String localVar1="Hello localVar1";
+
 	}
 }
