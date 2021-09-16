@@ -11,4 +11,8 @@ public class Test {
 		//Changes done on 16sep73202PM
 		//HEllo how are you.
 	}
+	
+	public void remoteMethod1(){
+	String remotevar1="Hello Rahul";
+	}
 }
