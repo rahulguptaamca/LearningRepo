@@ -63,9 +63,6 @@ public class Test {
 	public void localMethod4() {
 		String localMethod4="localMethod4";
 	}
-					
-	public void localMethod5() {
-		String localMethod5="localMethod5";
-	}
+
 }
 
