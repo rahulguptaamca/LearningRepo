@@ -12,17 +12,22 @@ public class Test {
 		//HEllo how are you.
 	}
 	
-	public void remoteMethod1(){
-	String remotevar1="remoteMethod1;
-	System.out.println("remoteMethod1 Change");
+	public void remoteMethod1() {
+		String remotevar1 = "remoteMethod1";
+		System.out.println("remoteMethod1 Change");
 		System.out.println("remoteMethod1 Change1");
 		System.out.println("remoteMethod1 Change2");
 		System.out.println("remoteMethod1 Change3");
-	}
-	public void localMethod1() {
-		String localVar1="Hello localVar1";
 
+		String remotevar2 = "Hello Rahul";
+		System.out.println("Local change1 in remoteMethod1");
+		System.out.println("Local change2 in remoteMethod1");
+		System.out.println("Local change3 in remoteMethod1");
 	}
+
+	
+
+
 	public void remoteMethod2(){
 	String remoteMethod2="remoteMethod2";
 	}
@@ -42,4 +47,25 @@ public class Test {
 	public void remoteMethod6(){
 	String remoteMethod6="remoteMethod6";
 	}
+	
+	public void localMethod1() {
+		String localMethod1="localMethod1";
+	}
+		
+	public void localMethod2() {
+		String localMethod2="localMethod2";
+	}
+			
+	public void localMethod3() {
+		String localMethod3="localMethod3";
+	}
+				
+	public void localMethod4() {
+		String localMethod4="localMethod4";
+	}
+					
+	public void localMethod5() {
+		String localMethod5="localMethod5";
+	}
 }
+
