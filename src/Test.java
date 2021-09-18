@@ -27,11 +27,19 @@ public class Test {
 		//Remote commit on 18Sep-5:35 AM
 		String remotevar3 = "RemoteVar3";
 		System.out.println("remote change with remotevar3 new var");
+		
+		//local changes done on 18Sep-5:39AM
+		String localVar4="localvar4";
+		System.out.println("local change with localVar4");		
 	}
 
 	//Remote commit on 18Sep-5:35 AM
 	public void remoteMethod7(){
 	String remoteMethod7="remoteMethod7";
+	}
+	//local changes done on 18Sep-5:39AM
+	public void localMethod5() {
+		String remoteMethod5="remoteMethod5";
 	}
 
 
