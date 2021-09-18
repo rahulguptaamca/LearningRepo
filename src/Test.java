@@ -23,9 +23,16 @@ public class Test {
 		System.out.println("Local change1 in remoteMethod1");
 		System.out.println("Local change2 in remoteMethod1");
 		System.out.println("Local change3 in remoteMethod1");
+		
+		//Remote commit on 18Sep-5:35 AM
+		String remotevar3 = "RemoteVar3";
+		System.out.println("remote change with remotevar3 new var");
 	}
 
-	
+	//Remote commit on 18Sep-5:35 AM
+	public void remoteMethod7(){
+	String remoteMethod7="remoteMethod7";
+	}
 
 
 	public void remoteMethod2(){
