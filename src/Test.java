@@ -77,6 +77,7 @@ public class Test {
 				
 	public void localMethod4() {
 		String localMethod4="localMethod4";
+		System.out.println("localmethod4 changes done locally");
 	}
 
 }
