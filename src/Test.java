@@ -1,9 +1,19 @@
 
 public class Test {
 
-	public static void main(String[] args) {
-		System.out.println("New changes directly on remote");
-		System.out.println("New changes directly on local"); // local changes done 14oct2021 at 6:00AM
-	}
 
+	public static void main(String[] args) {
+		//Hello Rahul Gupta0
+		//Hello Rahul gupta changes on 16sep730PM
+		//Hello Rahul Gupta
+		//Hello Rahul Changes on 16sep731PM
+		//Hello Rahul Gupta2
+		//Hello Rahul Changes on 16sep73102PM
+		//Changes done on 16sep73202PM
+		//HEllo how are you.
+	}
+	
+	public void afterStashBranch() {
+		
+	}
 }
