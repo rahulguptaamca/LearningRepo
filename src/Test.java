@@ -12,22 +12,4 @@ public class Test {
 		// HEllo how are you.
 	}
 
-	public void afterStashBranch() {
-
-	}
-
-	// master_phase1 branch change
-	public void afterStashBranch1() {
-
-	}
-
-	// master_phase1 branch change number2.
-	public void afterStashBranch2() {
-
-	}
-
-	// master_phase1 branch change number3.
-	public void afterStashBranch3() {
-
-	}
 }
