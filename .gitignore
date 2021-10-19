@@ -1,2 +1,10 @@
-/Libs/*
-bin/*
+#Libs
+Libs/
+
+#bin folder
+/bin/
+
+### STS ###
+.classpath
+.project
+.settings
