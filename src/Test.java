@@ -16,4 +16,9 @@ public class Test {
 	public void afterStashBranch() {
 		
 	}
+	
+	//master_phase1 branch change
+	public void afterStashBranch1() {
+		
+	}
 }	
