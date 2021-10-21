@@ -6,8 +6,5 @@ public class Test1 {
 		
 	}
 	
-	
-	public static void localAddedMethod1_InTest1Java() {
-		//This method added locally on 20Oct2021-8:36PM
-	}
+	//deleted method localAddedMethod1_InTest1Java.
 }
