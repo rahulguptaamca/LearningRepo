@@ -2,18 +2,6 @@
 public class Test {
 
 	public static void main(String[] args) {
-		// Hello Rahul Gupta0
-		// Hello Rahul gupta changes on 16sep730PM
-		// Hello Rahul Gupta
-		// Hello Rahul Changes on 16sep731PM
-		// Hello Rahul Gupta2
-		// Hello Rahul Changes on 16sep73102PM
-		// Changes done on 16sep73202PM
-		// HEllo how are you.
-	}
-
-	//changed done in phase1 branch 2nd time.
-	public static void test1() {
-		
+		//New changes done on 25jan2022 at 06:58:22 Hours.
 	}
 }
